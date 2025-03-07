@@ -11,5 +11,3 @@ logs/
 yarn.lock
 package-lock.json
 .envrc
-
-.DS_Store
